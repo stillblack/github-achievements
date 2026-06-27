@@ -1,3 +1,3 @@
 # GitHub Achievements
 
-A repository for practicing GitHub workflows and tracking GitHub profile achievements.
+A repository for practicing GitHub workflows and tracking GitHub profile achievements1.
